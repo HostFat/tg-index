@@ -6,3 +6,4 @@ pillow
 aiohttp_session[secure]
 python-dotenv
 requests
+jinja2==3.0.3
